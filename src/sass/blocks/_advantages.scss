@@ -3,14 +3,6 @@
     background-color: #f6f6f6;
     box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.25);
 
-    &__title {
-        font-weight: 700;
-        font-size: 30px;
-        line-height: 100%;
-        text-align: center;
-        color: #0d0d0d;
-    }
-
     &__wrapper {
         margin-top: 60px;
         display: flex;
@@ -39,7 +31,7 @@
         text-align: center;
         color: #0d0d0d;
 
-        span {
+        a {
             text-decoration: underline;
             text-decoration-skip-ink: none;
             color: #f00;
